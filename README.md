@@ -14,14 +14,14 @@
 
 
 ## Sources
-* Kaggle
+
 * Data.Worlds
 
 ## Type of data	
 * Geodata
 
 ## Project Proposal:	
-The objective of our project is to understand crime rates linked to specific locations and time looking for correlations with random events that could modify historical trends between 2017 and 2020.
+The objective of our project is to understand crime rates linked to specific locations and time, looking for correlations among crime types and locations. Two large cities and a neighbor city of smaller population in the State of Texas are selected for the analysis. 
 
 ## Target questions:
 *   Analyze historical crime type and rates for a selected group of cities. 

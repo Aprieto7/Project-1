@@ -1,2 +1,4 @@
 *.cpython-39*
 *-checkpoint.*
+.ipynb_checkpoints/Crime_Data-checkpoint.ipynb
+__pycache__/config.cpython-38.pyc

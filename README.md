@@ -21,13 +21,20 @@
 * Geodata
 
 ## Project Proposal:	
-The objective of our project is to understand crime rates linked to specific locations and time, looking for correlations among crime types and locations. Two large cities and a neighbor city of smaller population in the State of Texas are selected for the analysis. 
+The objective of our project is to understand crime rates linked to specific locations and time period, looking for correlations among crime types and locations. Two large cities and two neighbor cities, specifically "college towns" of smaller population in the State of Texas are selected for the analysis. 
 
-## Target questions:
+## General Analysis:
+*   Use counties as "proxy" for cities.
 *   Analyze historical crime type and rates for a selected group of cities. 
 *	Compare iconic cities trends vs. lower populate areas by crime type.
-*	Predict crime rates for the next 2-3 years.
-*   Optional:Correlate additional external factors.
+*	Predict crime rates for the following year.
+
+## Specific Questions
+*   Which counties had the most crime per capita?
+*   Which offense was most common in the analyzed counties?
+*   Did crime increase or decrease durint the assessed period?
+*   Do "college towns" have more crime?
+
 
 ## Additional resources
 *	Gmaps

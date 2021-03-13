@@ -38,6 +38,16 @@ The objective of our project is to understand crime rates linked to specific loc
 
 ## Additional resources
 *	Gmaps
+
+## Presentation Link
+*   https://docs.google.com/presentation/d/1RGZtUvPDeD64RQe_J9T-uP9MTvWlPHgbV1vn659NGvM/edit?usp=sharing
+
+
+
+
+
+
+
 	
 
 

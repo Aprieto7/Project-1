@@ -2,11 +2,17 @@
 
 ![](https://gray-wjhg-prod.cdn.arcpublishing.com/resizer/o1KjzMU4d5rnMH8WfYuwkoACsQ8=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YBLX6XC3A5LXPDOGE2DYIFQZAQ.jpg)
 
+
+
 ## Team Members
-* <span style="color:red"> **Blanca de Leon** 
-* <span style="color:blue"> **Brandy Knust** 
-* <span style="color:red">**Adolfo Prieto** 
-* <span style="color:blue">**Oscar Sanguino** 
+<div>
+    <ul>
+        <li><span style="color:red"><b>Blanca de Leon</b></li>
+        <li><span style="color:blue"><b>Brandy Knust</b></li>
+        <li><span style="color:red"><b>Adolfo Prieto</b></li>
+        <li><span style="color:blue"><b>Oscar Sanguino</b></li>
+    </ul>
+</div>
 
 ## Topic:
 * Crime rates 
@@ -39,8 +45,12 @@ The objective of our project is to understand crime rates linked to specific loc
 ## Additional resources
 *	Gmaps
 
+
+
 ## Presentation Link
 *   https://docs.google.com/presentation/d/1RGZtUvPDeD64RQe_J9T-uP9MTvWlPHgbV1vn659NGvM/edit?usp=sharing
+
+![](./figures/Crime_in_Texas.png)
 
 
 
